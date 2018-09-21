@@ -23,3 +23,4 @@ Things you may want to cover:
 
 * ...
 # Odin-My-First-Rails-App
+# Odin-Rails-App
